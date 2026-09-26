@@ -68,6 +68,7 @@ which have instructions for Flask, WSGI, or Python.
 - `Google App Engine <https://cloud.google.com/appengine/docs/standard/python3/building-app>`_
 - `Google Cloud Run <https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service>`_
 - `AWS Elastic Beanstalk <https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html>`_
+- `Cloudflare Workers <https://developers.cloudflare.com/workers/languages/python/packages/flask/>`_
 - `Microsoft Azure <https://docs.microsoft.com/en-us/azure/app-service/quickstart-python>`_
 
 This list is not exhaustive, and you should evaluate these and other
